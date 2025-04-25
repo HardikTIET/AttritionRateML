@@ -8,7 +8,7 @@ This project predicts whether an employee is likely to leave a company (attritio
 
 Here's a preview of the application:
 
-![App Screenshot](\images\ss.png)
+![App Screenshot](images/ss.png)
 
 ## ✨ Features
 
